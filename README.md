@@ -4,7 +4,7 @@
  Copyright 2002-2019 --  9 Jan. 2019
  Authors: Siglobal    
 
- **************************************
+descontinuado.. **************************************
 
 "JP timer"  
 Use to sum up the working time in a given project using the windows process list, or any window / program with a given keyword in the title or simply to check the time of a process or window. JP timer checks and lists processes in a grid so that the process / window is selected and counted. Process monitoring happens while a particular process is active, the window monitor works when the window is not minimized. JPTimer is acronym for "Timer for Processes and Windows".
